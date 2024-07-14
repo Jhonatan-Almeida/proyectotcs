@@ -1,0 +1,13 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/proyecto_tcs
+spring.datasource.username=root
+spring.datasource.password=
+spring.datasource.drive-class-name=com.mysql.cj.jdbc.Driver
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+
+spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
+debug=true
+
+logging.level.org.hibernate.SQL=DEBUG
+logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
