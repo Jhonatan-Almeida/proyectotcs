@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "b93a914a-156a-48ab-914d-2cb3f9ec7481",
+		"name": "ProyectoTcs",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34826102"
+	},
+	"item": [
+		{
+			"name": "CrearCliente",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "CrearCuenta",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "CrearMovimiento",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
